@@ -4,7 +4,15 @@
 
 
 # 💫 About Me:
+<div  style="margin-top: 20px; height: 230px; line-height: 230px;">
+  <img src="https://komarev.com/ghpvc/?username=bhargav-yarlagadda&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="bhargav-yarlagadda" />
+</div>
 Passionate Web Developer | Crafting Digital Experiences with Innovation<br><br>🌐 Welcome to my Github profile! I'm a dedicated and passionate web developer with a strong commitment to creating exceptional online experiences. 💻<br><br>🚀 As a technology enthusiast, I thrive on staying at the forefront of web development trends and harnessing the latest tools and technologies to build engaging and dynamic websites. My mission is to turn digital dreams into reality.<br><br>🤝 Collaboration and communication are at the core of my work philosophy. I thrive in team environments and value the power of cross-functional collaboration, always seeking opportunities to learn and grow from my peers.<br><br>🌟 If you're looking for a passionate web developer who can transform your ideas into captivating online solutions, let's connect! I'm excited to explore new opportunities and create digital experiences that make a lasting impact.<br><br>Let's build the web of the future together! 👋<br><br>#WebDevelopment #PassionForCode #DigitalExperiences #WebDeveloper #Innovation
+
+
+
+
+
 
 
 # 💻 Tech Stack:
@@ -78,19 +86,20 @@ Passionate Web Developer | Crafting Digital Experiences with Innovation<br><br>�
 
 </div>
 
+
+
+
 ## 📊 GitHub Stats:
 <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=bhargav-yarlagadda&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="200" alt="streak graph" style="display: inline-block; margin-right: 100px;" />
-
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-yarlagadda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=14&theme=radical&hide_border=false" height="200" alt="languages graph" style="display: inline-block;" />
 
 </div>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhargav-yarlagadda&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="bhargav-yarlagadda" />
-</p>
+
 
 
 ### ✍️ Random Dev Quote
