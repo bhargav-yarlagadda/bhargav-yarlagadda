@@ -88,6 +88,9 @@ Passionate Web Developer | Crafting Digital Experiences with Innovation<br><br>�
 </div>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhargav-yarlagadda&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="bhargav-yarlagadda" />
+</p>
 
 
 ### ✍️ Random Dev Quote
