@@ -89,16 +89,6 @@ Passionate Web Developer | Crafting Digital Experiences with Innovation<br><br>ð
 
 
 
-## ðŸ“Š GitHub Stats:
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=bhargav-yarlagadda&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="200" alt="streak graph" style="display: inline-block; margin-right: 100px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-yarlagadda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=14&theme=radical&hide_border=false" height="200" alt="languages graph" style="display: inline-block;" />
-
-</div>
-
-
 
 
 
