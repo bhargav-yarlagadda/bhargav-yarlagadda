@@ -10,11 +10,6 @@
 Passionate Web Developer | Crafting Digital Experiences with Innovation<br><br>🌐 Welcome to my Github profile! I'm a dedicated and passionate web developer with a strong commitment to creating exceptional online experiences. 💻<br><br>🚀 As a technology enthusiast, I thrive on staying at the forefront of web development trends and harnessing the latest tools and technologies to build engaging and dynamic websites. My mission is to turn digital dreams into reality.<br><br>🤝 Collaboration and communication are at the core of my work philosophy. I thrive in team environments and value the power of cross-functional collaboration, always seeking opportunities to learn and grow from my peers.<br><br>🌟 If you're looking for a passionate web developer who can transform your ideas into captivating online solutions, let's connect! I'm excited to explore new opportunities and create digital experiences that make a lasting impact.<br><br>Let's build the web of the future together! 👋<br><br>#WebDevelopment #PassionForCode #DigitalExperiences #WebDeveloper #Innovation
 
 
-
-
-
-
-
 # 💻 Tech Stack:
 <div align="left">
   <!-- Existing Web Development Stack Icons -->
@@ -85,12 +80,6 @@ Passionate Web Developer | Crafting Digital Experiences with Innovation<br><br>�
  
 
 </div>
-
-
-
-
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
